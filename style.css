@@ -1,0 +1,14 @@
+body{
+    background-image:radial-gradient(orange,purple, red);
+    color:white;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: ridge;
+    width: 350;
+    height: 300;
+}
+link:https://teachablemachine.withgoogle.com/models/h9T5EC84H/
